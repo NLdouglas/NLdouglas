@@ -1,7 +1,7 @@
     Olá! Me chamo Douglas Leodoro
 
-- Atualmente trabalho como Estágiario de TI
-- Estudando tecnologias e linguagens com o foco para back-end
+- Atualmente trabalho como Estágiario em gestão e serviços de TI
+- Estudando tecnologias e linguagens com o foco para back-end e big data
 - Cursando Análise e Desenvolvimento de Sistemas 
 
 <div align="center">
