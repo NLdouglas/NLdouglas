@@ -1,7 +1,7 @@
     Olá! Me chamo Douglas Leodoro
 
-- Atualmente trabalho como Estágiario em gestão e serviços de TI
-- Estudando tecnologias e linguagens com o foco para atuar como engenheiro de software ou engenheiro de machine learning 
+- Atualmente trabalho como Análista de Serviços de Infraetrutura de TI
+- Estudando tecnologias e linguagens com o foco para atuar como Dev. Back-end
 - Cursando Análise e Desenvolvimento de Sistemas 
 
 <div align="center">
